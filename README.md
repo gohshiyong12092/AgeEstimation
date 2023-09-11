@@ -1,2 +1,2 @@
-# AgeEstimation
-A python code leveraging PyTorch to accurately estimate human age from images.
+# Human Age Estimation with PyTorch
+This Python project is designed to estimate human age from images using the power of PyTorch. It employs deep learning techniques to analyze facial features and provide an accurate estimate of a person's age. Whether you're building an age prediction model for research, enhancing your computer vision application, or simply exploring the capabilities of PyTorch, this project serves as a valuable starting point.
